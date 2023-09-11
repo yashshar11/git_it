@@ -1,2 +1,4 @@
 phone
 
+Touchscreen Amoled
+Scratchless
